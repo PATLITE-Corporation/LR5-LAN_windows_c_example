@@ -1,8 +1,8 @@
-# LR5-LAN_linux_python_example  
+# LR5-LAN_windows_C_example  
 
 The outline of the sample program for controlling LR5-LAN by socket communication is described.
 
-The purpose of this program is to control Linux in python language.
+The purpose of this program is to control windows in C language.
 
 If you have any enquiries about sample source code or our products, please contact us from below the URL.
 
