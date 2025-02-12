@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\data\\\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\P\u793E\\LR5-LAN\\02_\u30BD\u30FC\u30B9\\windows\\LR5-LAN_Sample_C\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{764B39BD-3955-4C39-9389-BBFE37463663}|LR5-LAN_Sample_C\\LR5-LAN_Sample_C.vcxproj|E:\\data\\\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\P\u793E\\LR5-LAN\\02_\u30BD\u30FC\u30B9\\windows\\LR5-LAN_Sample_C\\LR5-LAN_Sample_C\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{764B39BD-3955-4C39-9389-BBFE37463663}|LR5-LAN_Sample_C\\LR5-LAN_Sample_C.vcxproj|solutionrelative:LR5-LAN_Sample_C\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "E:\\data\\\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\P\u793E\\LR5-LAN\\02_\u30BD\u30FC\u30B9\\windows\\LR5-LAN_Sample_C\\LR5-LAN_Sample_C\\main.c",
+              "RelativeDocumentMoniker": "LR5-LAN_Sample_C\\main.c",
+              "ToolTip": "E:\\data\\\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\P\u793E\\LR5-LAN\\02_\u30BD\u30FC\u30B9\\windows\\LR5-LAN_Sample_C\\LR5-LAN_Sample_C\\main.c",
+              "RelativeToolTip": "LR5-LAN_Sample_C\\main.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-10T01:37:01.935Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

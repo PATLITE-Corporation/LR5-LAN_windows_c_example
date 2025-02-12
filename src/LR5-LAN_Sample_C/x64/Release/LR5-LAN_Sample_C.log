@@ -1,0 +1,8 @@
+﻿  main.c
+E:\data\プロジェクト\P社\LR5-LAN\02_ソース\windows\LR5-LAN_Sample_C\LR5-LAN_Sample_C\main.c(10,15): warning C4047: '初期化中': 間接参照のレベルが 'SOCKET' と 'void *' で異なっています。
+E:\data\プロジェクト\P社\LR5-LAN\02_ソース\windows\LR5-LAN_Sample_C\LR5-LAN_Sample_C\main.c(226,11): warning C4047: '==': 間接参照のレベルが 'SOCKET' と 'void *' で異なっています。
+  コード生成しています。
+  Previous IPDB not found, fall back to full compilation.
+  All 10 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  コード生成が終了しました。
+  LR5-LAN_Sample_C.vcxproj -> E:\data\プロジェクト\P社\LR5-LAN\02_ソース\windows\LR5-LAN_Sample_C\x64\Release\LR5-LAN_Sample_C.exe
